@@ -1,6 +1,6 @@
-<h1 align="left" >Hey 👋 I'm Fernandes</h1> 
+# Hey 👋 I'm Fernandes
 
-<h3 align="left">About me: </h3>
+### About me: 
 <p>Currently studying Computer Science and Engineering at IST in Lisbon.</p>
 <p>I'm constantly looking for ways to combine my drive for Software Engineering with my passion for arts and creativity.</p>
 <p>If I'm not studying, you will certainly find me drawing, writing, getting better at the guitar, racing pretend cars in the simulator or real karts at the track 🏎️💨</p>
@@ -12,6 +12,10 @@
 
 - 💬 Ask me about **my favorite album!**
 
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,js,html,css,linux,git&perline=4)](https://skillicons.dev)
+### Software
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,ps,pr,au,ai,figma,ableton&perline=4)](https://skillicons.dev)
 <!--
 **Scuffedwrldwide/Scuffedwrldwide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
