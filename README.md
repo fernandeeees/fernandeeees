@@ -1,20 +1,17 @@
-# Hi 👋, I'm Fernandes
-### Currently studying Computer Science and Software Engineering (LEIC) at IST in Lisbon.
-### I'm constantly looking for ways to combine my creative passion for arts and writing with my drive for software engineering.
-
+<h1 align="left" >Hey 👋 I'm Fernandes</h1> 
+<h6 align="left">Fluent in 🇵🇹 🇬🇧 | Learning 🇫🇷 🇪🇸</h6>
+<br>
+<h3 align="left">About me: </h3>
+<p>Currently studying Computer Science and Engineering at IST in Lisbon.</p>
+<p>I'm constantly looking for ways to combine my drive for Software Engineering with my passion for arts and creativity.</p>
+<p>If I'm not studying, you will certainly find me drawing, writing, getting better at the guitar, racing pretend cars in the simulator or real karts at the track 🏎️💨</p>
+<p></p>
 
 - 🔭 I’m currently working on **an untitled Vampire visual novel, set in Lisbon!**
 
-- 🌱 I’m currently learning **Java, karting and the guitar**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **my favorite album!**
-
-### I speak: 
-#### 🇵🇹 | 🇬🇧 | (learning) 🇫🇷 | 🇪🇸
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scuffedwrldwide&show_icons=true&locale=en&layout=compact" alt="scuffedwrldwide" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scuffedwrldwide&" alt="scuffedwrldwide" /></p>
 
 <!--
 **Scuffedwrldwide/Scuffedwrldwide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
