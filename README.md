@@ -1,6 +1,5 @@
 <h1 align="left" >Hey 👋 I'm Fernandes</h1> 
-<h6 align="left">Fluent in 🇵🇹 🇬🇧 | Learning 🇫🇷 🇪🇸</h6>
-<br>
+
 <h3 align="left">About me: </h3>
 <p>Currently studying Computer Science and Engineering at IST in Lisbon.</p>
 <p>I'm constantly looking for ways to combine my drive for Software Engineering with my passion for arts and creativity.</p>
