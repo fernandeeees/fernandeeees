@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **an untitled Vampire visual novel, set in Lisbon!**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, C++ and the guitar**
 
 - 💬 Ask me about **my favorite album!**
 
