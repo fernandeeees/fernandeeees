@@ -12,10 +12,23 @@
 
 - 💬 Ask me about **my favorite album!**
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,js,html,css,linux,git&perline=4)](https://skillicons.dev)
-### Software
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,ps,pr,au,ai,figma,ableton&perline=4)](https://skillicons.dev)
+<div align="center">
+  <div align="left" style="display: flex; alignitems="flex-start">
+    <div style="width: 48%; display: inline-block; margin-right: 1%;">
+    <h3>Skills</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,linux,git&perline=4" />
+      </a>
+    </div>
+    <div style=""width: 48%; display: inline-block;" >
+    <h3>Software</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,vim,ps,pr,au,ai,figma,ableton&perline=4">
+      </a>
+    </div>
+  </div>
+
+</div>
 <!--
 **Scuffedwrldwide/Scuffedwrldwide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
