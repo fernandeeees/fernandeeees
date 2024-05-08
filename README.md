@@ -2,13 +2,14 @@
 
 ### About me: 
 <p>Currently studying Computer Science and Engineering at IST in Lisbon.</p>
+<p>Working on front-end, embedded systems and graphics design at <a "href="https://psemportugal.com">psemportugal.com</a></p>
 <p>I'm constantly looking for ways to combine my drive for Software Engineering with my passion for arts and creativity.</p>
-<p>If I'm not studying, you will certainly find me drawing, writing, getting better at the guitar, racing pretend cars in the simulator or real karts at the track 🏎️💨</p>
+<p>If I'm not studying, you will certainly find me drawing, writing, getting better at the guitar, racing pretend cars in the simulator or real prototypes with PSEM 🏎️💨</p>
 <p></p>
 
 - 🔭 I’m currently working on **an untitled Vampire visual novel, set in Lisbon!**
 
-- 🌱 I’m currently learning **Java, C++ and the guitar**
+- 🌱 I’m currently learning **React, Godot and the guitar**
 
 - 💬 Ask me about **my favorite album!**
 
