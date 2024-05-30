@@ -2,7 +2,7 @@
 
 ### About me: 
 <p>Currently studying Computer Science and Engineering at IST in Lisbon.</p>
-<p>Working on front-end, embedded systems and graphics design at <a "href="https://psemportugal.com">psemportugal.com</a></p>
+<p>Working on front-end, embedded systems and graphics design at [PSEM](https://psemportugal.com/)
 <p>I'm constantly looking for ways to combine my drive for Software Engineering with my passion for arts and creativity.</p>
 <p>If I'm not studying, you will certainly find me drawing, writing, getting better at the guitar, racing pretend cars in the simulator or real prototypes with PSEM 🏎️💨</p>
 <p></p>
