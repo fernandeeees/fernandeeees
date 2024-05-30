@@ -1,11 +1,14 @@
 # Hey 👋 I'm Fernandes
 
 ### About me: 
-<p>Currently studying Computer Science and Engineering at IST in Lisbon.</p>
-<p>Working on front-end, embedded systems and graphics design at [PSEM](https://psemportugal.com/)
-<p>I'm constantly looking for ways to combine my drive for Software Engineering with my passion for arts and creativity.</p>
-<p>If I'm not studying, you will certainly find me drawing, writing, getting better at the guitar, racing pretend cars in the simulator or real prototypes with PSEM 🏎️💨</p>
-<p></p>
+Currently studying Computer Science and Engineering at IST in Lisbon.
+
+Working on front-end, embedded systems and graphics design at [PSEM Portugal](https://psemportugal.com/)
+
+I'm constantly looking for ways to combine my drive for Software Engineering with my passion for arts and creativity.
+
+If I'm not studying, you will certainly find me drawing, writing, getting better at the guitar, racing pretend cars in the simulator or real prototypes with PSEM 🏎️💨
+
 
 - 🔭 I’m currently working on **an untitled Vampire visual novel, set in Lisbon!**
 
