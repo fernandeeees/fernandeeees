@@ -10,12 +10,6 @@ I'm constantly looking for ways to combine my drive for Software Engineering wit
 If I'm not studying, you will certainly find me drawing, writing, getting better at the guitar, racing pretend cars in the simulator or real prototypes with PSEM 🏎️💨
 
 
-- 🔭 I’m currently working on **an untitled Vampire visual novel, set in Lisbon!**
-
-- 🌱 I’m currently learning **React, Godot and the guitar**
-
-- 💬 Ask me about **my favorite album!**
-
 <div align="center">
   <div align="left" style="display: flex; alignitems="flex-start">
     <div style="width: 48%; display: inline-block; margin-right: 1%;">
