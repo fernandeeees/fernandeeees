@@ -1,7 +1,7 @@
 # Hey 👋 I'm Fernandes
 
 ### About me: 
-Currently studying Computer Science and Engineering at IST in Lisbon.
+Currently hard at work on my Master's in Computer Science and Engineering at IST in Lisbon.
 
 Working on front-end, embedded systems and graphics design at [PSEM Portugal](https://psemportugal.com/)
 
