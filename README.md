@@ -19,11 +19,11 @@ If I'm not studying, you will certainly find me drawing, writing, getting better
       </a>
     </div>
     <div style=""width: 48%; display: inline-block;" >
-    <h3>Software</h3>
+    <!--<h3>Software</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,vim,ps,pr,au,ai,figma,ableton&perline=4">
       </a>
-    </div>
+    </div>-->
   </div>
 
 </div>
